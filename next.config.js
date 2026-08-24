@@ -1,10 +1,1 @@
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-  api: {
-    bodyParser: {
-      sizeLimit: "4mb"
-    }
-  }
-};
-module.exports = nextConfig;
+const nextConfig = {\n  reactStrictMode: true,\n  swcMinify: true\n};\n\nmodule.exports = nextConfig;\n
