@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "framework": "nextjs",
-  "buildCommand": "npm run build",
-  "devCommand": "next dev",
-  "functions": {
-    "pages/api/**/*.js": {
-      "memory": 1024,
-      "maxDuration": 60
-    }
-  }
-}
+{\n  \"version\": 2,\n  \"framework\": \"nextjs\"\n}\n

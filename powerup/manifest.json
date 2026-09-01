@@ -1,13 +1,1 @@
-{
-  "name": "Workspace AI",
-  "description": "Esporta la bacheca Trello e apri in Workspace AI per un'analisi operativa completa",
-  "version": "1.0.0",
-  "author": "Workspace AI",
-  "powerUpId": "workspace-ai-export",
-  "permissions": ["read", "board:read", "card:read", "member:read"],
-  "appKey": "27f43e89b627b954c7f2da7eee870b22",
-  "icon": {"dark": "https://via.placeholder.com/48x48?text=AI", "light": "https://via.placeholder.com/48x48?text=AI"},
-  "connectorOrigin": "https://workspace-ai-trello.vercel.app",
-  "iframeConnectorDomains": ["https://workspace-ai-trello.vercel.app"],
-  "privateResourceOrigin": "https://workspace-ai-trello.vercel.app"
-}
+{\n  \"name\": \"Workspace AI\",\n  \"description\": \"Esporta la bacheca Trello e apri in Workspace AI per un'analisi operativa completa\",\n  \"version\": \"1.0.0\",\n  \"author\": \"Workspace AI\",\n  \"powerUpId\": \"workspace-ai-export\",\n  \"permissions\": [\"read\", \"board:read\", \"card:read\", \"member:read\"],\n  \"appKey\": \"27f43e89b627b954c7f2da7eee870b22\",\n  \"icon\": {\"dark\": \"https://via.placeholder.com/48x48?text=AI\", \"light\": \"https://via.placeholder.com/48x48?text=AI\"},\n  \"connectorOrigin\": \"https://workspace-ai-trello.vercel.app\",\n  \"iframeConnectorDomains\": [\"https://workspace-ai-trello.vercel.app\"],\n  \"privateResourceOrigin\": \"https://workspace-ai-trello.vercel.app\"\n}\n

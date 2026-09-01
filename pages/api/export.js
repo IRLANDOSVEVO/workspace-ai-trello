@@ -143,7 +143,7 @@ export default async function handler(req, res) {
     return res.status(200).json({ sessionUrl, sessionId, boardName: boardData.board.name });
   } catch (error) {
     console.error('Export error:', error);
-    return res.status(500).json({ error: error.message || 'Errore durante l esportazione' });
+    return res.status(500).json({ error: error.message || 'Errore durante l\'esportazione' });
   }
 }
 
