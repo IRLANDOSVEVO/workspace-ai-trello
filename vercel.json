@@ -1,1 +1,4 @@
-{\n  \"version\": 2,\n  \"framework\": \"nextjs\"\n}\n
+{
+  "version": 2,
+  "framework": "nextjs"
+}
